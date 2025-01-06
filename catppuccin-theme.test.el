@@ -1,4 +1,4 @@
-;;; catppuccin-theme.test.el --- tests for the Catppuccin theme -*- lexical-binding: t; no-byte-compile: t; -*-
+;;; catppuccin-theme.test.el --- tests for the Catppuccin theme -*- lexical-binding: t; -*-
 
 ;; Copyright 2022-present Catppuccin, All rights reserved
 ;;
